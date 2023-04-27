@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebuyuktas&label=Profile%20views&color=0e75b6&style=flat" alt="emrebuyuktas" /> </p>
 
-- 🔭 I’m currently working on [DeliveryApp](https://github.com/emrebuyuktas/DeliveryApp)
-
-- 🌱 I’m currently learning **Entity freamewrok, .NET and linq**
-
 - 👨‍💻 All of my projects are available at [https://github.com/emrebuyuktas](https://github.com/emrebuyuktas)
 
 - 📫 How to reach me **emrebtas@gmail.com**
